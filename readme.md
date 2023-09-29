@@ -6,23 +6,7 @@ so you have written "the missing text" the world has been waiting for,
 and now you want to print it a million times, but you have a low budget?
 well... at least that is my situation.
 
-## Brother HL-L5100DN
-
-currently, i have 6x [Brother HL-L5100DN](https://geizhals.de/brother-hl-l5100dn-hll5100dng1-a1409933.html) printers running in parallel.
-
-new price: 150eur
-
-used price: 50-120eur
-
-pro:
-
-- cheap
-- small, light (about 10kg)
-
-con:
-
-- slow duplex: about half of simplex speed
-- small tray 1 with 250 sheets
+## challenges
 
 ### chipless toner and drums
 
@@ -76,7 +60,34 @@ tube ventilators:
    - https://pflanzburg.de/product/rohrluefter-primaklima-ac-2-stufig/
    - this model is rather oversized for this use case, but it works
 
-## Brother HL-L6400DW
+### handling high volume of toner and drums
+
+the cheap "compatible" toner and drums are not accepted by recycling services
+
+so either you produce large amounts of electronic waste
+or you find a way to refill toner and drums
+
+## printers
+
+### Brother HL-L5100DN
+
+currently, i have 6x [Brother HL-L5100DN](https://geizhals.de/brother-hl-l5100dn-hll5100dng1-a1409933.html) printers running in parallel.
+
+new price: 150eur
+
+used price: 50-120eur
+
+pro:
+
+- cheap
+- small, light (about 10kg)
+
+con:
+
+- slow duplex: about half of simplex speed
+- small tray 1 with 250 sheets
+
+### Brother HL-L6400DW
 
 [Brother HL-L6400DW](https://geizhals.de/brother-hl-l6400dw-hll6400dwg1-a1391284.html) is an alternative to Brother HL-L5100DN
 
@@ -90,7 +101,7 @@ con:
 - more expensive
 - larger, heavier
 
-## Konica Minolta Bizhub 4700P
+### Konica Minolta Bizhub 4700P
 
 pro:
 
